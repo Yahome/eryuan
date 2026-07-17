@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 14 294 172" role="img" aria-labelledby="title desc">
+  <title id="title">二元 AI 图像生成</title>
+  <desc id="desc">朱雀仿宋二元字标、开放成图窗口与右下角生成山形组成的品牌标志</desc>
+  <defs>
+    <linearGradient id="terrain" x1="194" y1="171" x2="299" y2="147" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30251C"/>
+      <stop offset=".14" stop-color="#63391F"/>
+      <stop offset=".39" stop-color="#ED8F40"/>
+      <stop offset=".64" stop-color="#FE680F"/>
+      <stop offset=".84" stop-color="#F39D59"/>
+      <stop offset="1" stop-color="#FED2AC" stop-opacity=".28"/>
+    </linearGradient>
+    <linearGradient id="bridge" x1="184" y1="170" x2="219" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505"/>
+      <stop offset=".38" stop-color="#211A15"/>
+      <stop offset=".72" stop-color="#63391F"/>
+      <stop offset="1" stop-color="#B56532"/>
+    </linearGradient>
+    <linearGradient id="terrain-highlight" x1="245" y1="174" x2="299" y2="139" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4EA" stop-opacity="0"/>
+      <stop offset=".58" stop-color="#FFB36F" stop-opacity=".17"/>
+      <stop offset="1" stop-color="#FFF8F2" stop-opacity=".36"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="294" y1="176" x2="294" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F4EF" stop-opacity=".14"/>
+      <stop offset=".24" stop-color="#FED2AC" stop-opacity=".72"/>
+      <stop offset=".58" stop-color="#FE680F"/>
+      <stop offset="1" stop-color="#F39D59" stop-opacity=".92"/>
+    </linearGradient>
+    <linearGradient id="spill" x1="291" y1="158" x2="320" y2="158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FE680F" stop-opacity=".34"/>
+      <stop offset=".46" stop-color="#F39D59" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#FED2AC" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="haze" cx="0" cy="0" r="1" gradientTransform="translate(298 158) scale(29 22)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FE680F" stop-opacity=".34"/>
+      <stop offset=".44" stop-color="#F39D59" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FED2AC" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="terrain-soft" x="180" y="118" width="145" height="74" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="4.8"/>
+    </filter>
+    <filter id="haze-soft" x="258" y="119" width="72" height="76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="6.4"/>
+    </filter>
+    <filter id="spill-soft" x="280" y="132" width="51" height="57" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+  </defs>
+  <path d="M294 88V38Q294 27 283 27H41Q30 27 30 38V159Q30 170 41 170H202" fill="none" stroke="#050505" stroke-width="10" stroke-linecap="butt" stroke-linejoin="round"/>
+  <g fill="#050505">
+    <path d="M127 57L62 104L65 114L121 113L208 114L505 126L631 134L734 142Q794 149 831 166L834 166L857 150L910 105Q916 99 918 95Q920 91 920 83Q913 74 896 74Q877 76 858 77.5Q839 79 819 79L625 81Q578 81 486 77L236 66L137 56ZM185 557L189 567L216 567Q225 566 243 566Q267 566 279 567L316 568L371 571L506 580Q540 583 575.5 587Q611 591 640 599Q673 608 693 621L716 603L754 571L764 558Q765 555 766 551Q766 543 756 541L741 539L576 536Q533 535 442 529L344 523L248 511Z" transform="translate(70 128) scale(.092 -.092)"/>
+    <path d="M38 -64L60 -52Q164 4 225 68Q301 145 333 254Q350 322 350 376Q350 394 347 412Q226 406 148 390L82 435L87 445L94 445L133 446Q159 446 211 448L390 457L557 470L647 479L707 488Q750 495 790 516Q801 509 838 483L857 465Q867 455 869 446Q865 437 853 435L793 434L563 426L568 420L605 387L614 376L613 371Q606 357 603.5 338Q601 319 599 301Q593 244 590 161L589 133Q587 95 587 77Q587 54 588 42Q589 21 596 14.5Q603 8 620 5Q667 -4 700 -4Q760 -4 806 10Q848 21 862 66Q872 100 877 150L885 228L903 228L912 104Q917 40 929 1Q932 -8 932 -14Q932 -21 927.5 -25Q923 -29 911 -34Q872 -47 819 -54Q773 -60 727 -60Q705 -60 694 -59Q660 -57 638 -54Q616 -51 595 -44L578 -37Q549 -22 541 9Q534 36 534 78Q534 146 537 213L542 349Q543 363 541 385Q539 407 537 425L372 414L417 373Q426 362 420 353Q416 345 413.5 335Q411 325 409 315Q407 301 405 295Q383 203 344 139Q297 58 212 -2Q143 -51 53 -86ZM208 652L212 663Q284 665 318 667L489 680Q571 687 641 709Q665 716 681 727Q696 715 711.5 702Q727 689 737 676Q742 668 742 664Q742 653 726 653L504 638Q428 632 393 626L365 623Q342 620 317.5 616.5Q293 613 273 608Z" transform="translate(163 128) scale(.092 -.092)"/>
+  </g>
+  <ellipse cx="300" cy="158" rx="27" ry="20" fill="url(#haze)" filter="url(#haze-soft)"/>
+  <path d="M291 141H320V179H291Z" fill="url(#spill)" filter="url(#spill-soft)"/>
+  <path d="M188 176C205 175 215 169 226 159C237 149 247 146 257 149C267 152 270 163 275 160C282 156 285 141 291 137C295 134 298 136 301 139V176H188Z" fill="#FE680F" opacity=".24" filter="url(#terrain-soft)"/>
+  <path d="M184 165H219V176H184Z" fill="url(#bridge)"/>
+  <path d="M198 176C204 175 208 171 213 166C222 157 229 151 238 150C247 149 254 154 261 160C266 164 269 162 273 157C280 148 284 140 289 138C293 137 295 140 296 142V176H198Z" fill="url(#terrain)"/>
+  <path d="M246 151C252 153 257 157 261 160C266 164 269 162 273 157C280 148 284 140 289 138C293 137 295 140 296 142V176H282C269 169 257 157 246 151Z" fill="url(#terrain-highlight)"/>
+  <path d="M240 153C252 155 265 163 278 169C286 173 292 175 296 176" fill="none" stroke="#FFF9F4" stroke-width="1.15" stroke-linecap="round" opacity=".96"/>
+  <path d="M294 116V176" fill="none" stroke="url(#edge)" stroke-width="9.5" stroke-linecap="butt"/>
+  <circle cx="270" cy="49" r="6.3" fill="#FE680F"/>
+  
+</svg>

@@ -1,0 +1,24 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F6F1E8"/>
+  <path d="M0 0C230 160 344 334 342 520C340 700 238 828 0 900V0Z" fill="#050505"/>
+  <path d="M1200 0C942 120 800 312 784 518C770 704 916 842 1200 900V0Z" fill="#050505"/>
+  <g opacity="0.2">
+    <circle cx="600" cy="450" r="370" stroke="#050505"/>
+    <circle cx="600" cy="450" r="280" stroke="#050505"/>
+    <circle cx="600" cy="450" r="190" stroke="#050505"/>
+    <circle cx="600" cy="450" r="100" stroke="#050505"/>
+  </g>
+  <g font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="900">
+    <text x="458" y="505" font-size="160" fill="#050505">零壹</text>
+    <text x="82" y="770" font-size="96" fill="#F6F1E8">暗面</text>
+    <text x="924" y="170" font-size="96" fill="#F6F1E8">明面</text>
+  </g>
+  <path d="M152 316C318 260 468 292 596 412C724 532 866 558 1048 452" stroke="#050505" stroke-width="8" stroke-linecap="round"/>
+  <path d="M156 570C330 476 476 466 604 540C750 624 892 612 1054 514" stroke="#F6F1E8" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+  <g opacity="0.9">
+    <circle cx="336" cy="324" r="8" fill="#F6F1E8"/>
+    <circle cx="474" cy="662" r="11" fill="#050505"/>
+    <circle cx="824" cy="246" r="9" fill="#050505"/>
+    <circle cx="952" cy="604" r="11" fill="#F6F1E8"/>
+  </g>
+</svg>

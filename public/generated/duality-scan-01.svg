@@ -1,0 +1,22 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#050505"/>
+  <path d="M0 0H1200V900H0V0Z" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1200" y1="0" y2="900" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.48" stop-color="#1A1A18"/>
+      <stop offset="0.5" stop-color="#F6F1E8"/>
+      <stop offset="1" stop-color="#D7D0C1"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.22">
+    <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200M0 420H1200M0 490H1200M0 560H1200M0 630H1200M0 700H1200M0 770H1200M0 840H1200" stroke="#827D73"/>
+    <path d="M70 0V900M140 0V900M210 0V900M280 0V900M350 0V900M420 0V900M490 0V900M560 0V900M630 0V900M700 0V900M770 0V900M840 0V900M910 0V900M980 0V900M1050 0V900M1120 0V900" stroke="#827D73"/>
+  </g>
+  <path d="M202 642C328 432 466 314 604 318C750 322 830 456 1000 244" stroke="#F6F1E8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M190 686C352 584 482 552 594 596C744 654 824 736 1016 602" stroke="#050505" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="600" cy="452" r="180" stroke="#F6F1E8" stroke-width="2" opacity="0.9"/>
+  <circle cx="600" cy="452" r="90" stroke="#050505" stroke-width="8" opacity="0.88"/>
+  <text x="80" y="142" fill="#F6F1E8" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="82" font-weight="900">临界</text>
+  <text x="830" y="794" fill="#050505" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="82" font-weight="900">回声</text>
+</svg>

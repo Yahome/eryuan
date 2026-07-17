@@ -1,0 +1,33 @@
+<svg width="2400" height="1500" viewBox="0 0 2400 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="2400" height="1500" fill="#050505"/>
+  <path d="M0 0H2400V1500H0V0Z" fill="#F7F3EB"/>
+  <path d="M0 0H1420C1162 232 1009 474 961 728C910 1000 1019 1258 1320 1500H0V0Z" fill="#050505"/>
+  <path d="M2400 0V1500H1210C1386 1370 1533 1176 1577 922C1640 556 1446 261 1162 0H2400Z" fill="#050505" fill-opacity="0.96"/>
+  <g opacity="0.16">
+    <path d="M0 125H2400M0 250H2400M0 375H2400M0 500H2400M0 625H2400M0 750H2400M0 875H2400M0 1000H2400M0 1125H2400M0 1250H2400M0 1375H2400" stroke="#928C80"/>
+    <path d="M125 0V1500M250 0V1500M375 0V1500M500 0V1500M625 0V1500M750 0V1500M875 0V1500M1000 0V1500M1125 0V1500M1250 0V1500M1375 0V1500M1500 0V1500M1625 0V1500M1750 0V1500M1875 0V1500M2000 0V1500M2125 0V1500M2250 0V1500" stroke="#928C80"/>
+  </g>
+  <g font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="900">
+    <text x="152" y="360" font-size="146" fill="#F7F3EB">左岸</text>
+    <text x="1782" y="1190" font-size="146" fill="#F7F3EB">右岸</text>
+    <text x="1020" y="820" font-size="360" fill="#050505" opacity="0.9">二</text>
+  </g>
+  <g opacity="0.86">
+    <path d="M296 1214C650 1016 814 838 936 608C1044 402 1252 260 1516 262C1740 264 1956 350 2168 514" stroke="#F7F3EB" stroke-width="10" stroke-linecap="round"/>
+    <path d="M222 920C540 760 806 704 1042 762C1288 822 1432 990 1662 1058C1848 1114 2030 1054 2226 914" stroke="#050505" stroke-width="10" stroke-linecap="round"/>
+    <path d="M1140 114C1338 314 1418 538 1386 784C1352 1050 1238 1258 1058 1416" stroke="#F7F3EB" stroke-width="3" stroke-dasharray="16 20"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="800" opacity="0.38">
+    <text x="330" y="550" fill="#F7F3EB">0001110100101110</text>
+    <text x="1590" y="330" fill="#F7F3EB">1110001011010001</text>
+    <text x="1340" y="1330" fill="#F7F3EB">0101011011001001</text>
+  </g>
+  <g>
+    <circle cx="1080" cy="740" r="54" fill="#F7F3EB"/>
+    <circle cx="1338" cy="748" r="54" fill="#050505"/>
+    <circle cx="524" cy="706" r="9" fill="#F7F3EB"/>
+    <circle cx="734" cy="1052" r="12" fill="#F7F3EB"/>
+    <circle cx="1858" cy="660" r="9" fill="#F7F3EB"/>
+    <circle cx="2078" cy="976" r="12" fill="#F7F3EB"/>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg width="2400" height="1500" viewBox="0 0 2400 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="2400" height="1500" fill="#F4F1EA"/>
+  <rect x="0" width="1200" height="1500" fill="#050505"/>
+  <path d="M1198 0C1068 214 986 443 986 750C986 1057 1068 1286 1198 1500H1244C1382 1244 1450 1002 1450 750C1450 498 1382 256 1244 0H1198Z" fill="#F4F1EA"/>
+  <path d="M1220 0C1334 224 1390 474 1390 750C1390 1026 1334 1276 1220 1500" stroke="#050505" stroke-width="3" stroke-dasharray="18 22"/>
+  <path d="M1180 0C1066 224 1010 474 1010 750C1010 1026 1066 1276 1180 1500" stroke="#F4F1EA" stroke-width="3" stroke-dasharray="18 22"/>
+  <g opacity="0.22">
+    <path d="M0 190H2400M0 380H2400M0 570H2400M0 760H2400M0 950H2400M0 1140H2400M0 1330H2400" stroke="#8B8679" stroke-width="1"/>
+    <path d="M190 0V1500M380 0V1500M570 0V1500M760 0V1500M950 0V1500M1140 0V1500M1330 0V1500M1520 0V1500M1710 0V1500M1900 0V1500M2090 0V1500M2280 0V1500" stroke="#8B8679" stroke-width="1"/>
+  </g>
+  <g opacity="0.78">
+    <circle cx="690" cy="760" r="286" stroke="#F4F1EA" stroke-width="2"/>
+    <circle cx="690" cy="760" r="156" stroke="#F4F1EA" stroke-width="8"/>
+    <circle cx="690" cy="760" r="26" fill="#F4F1EA"/>
+    <circle cx="1710" cy="720" r="300" stroke="#050505" stroke-width="2"/>
+    <circle cx="1710" cy="720" r="176" stroke="#050505" stroke-width="8"/>
+    <circle cx="1710" cy="720" r="26" fill="#050505"/>
+  </g>
+  <g font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="900">
+    <text x="126" y="235" font-size="210" fill="#F4F1EA">零</text>
+    <text x="1980" y="1320" font-size="210" fill="#050505">一</text>
+    <text x="1120" y="780" font-size="112" fill="#050505" text-anchor="middle" transform="rotate(-90 1120 780)">共生</text>
+    <text x="1290" y="780" font-size="112" fill="#F4F1EA" text-anchor="middle" transform="rotate(90 1290 780)">分岔</text>
+  </g>
+  <g opacity="0.75">
+    <path d="M328 1116C558 882 830 665 1166 630C1486 596 1688 396 1960 196" stroke="#F4F1EA" stroke-width="7" stroke-linecap="round"/>
+    <path d="M470 1248C764 1056 980 920 1200 920C1480 920 1626 1070 1908 1188" stroke="#050505" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g opacity="0.48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="34" font-weight="700">
+    <text x="154" y="520" fill="#F4F1EA">0 1 0 1 1 0 0 1</text>
+    <text x="1530" y="420" fill="#050505">1 0 1 0 0 1 1 0</text>
+    <text x="360" y="1370" fill="#F4F1EA">0 0 1 1 0 1 0 1</text>
+    <text x="1430" y="1050" fill="#050505">1 1 0 0 1 0 1 0</text>
+  </g>
+  <g opacity="0.95">
+    <circle cx="403" cy="382" r="6" fill="#F4F1EA"/>
+    <circle cx="912" cy="238" r="9" fill="#F4F1EA"/>
+    <circle cx="960" cy="1192" r="7" fill="#F4F1EA"/>
+    <circle cx="1542" cy="248" r="7" fill="#050505"/>
+    <circle cx="1840" cy="862" r="10" fill="#050505"/>
+    <circle cx="2120" cy="458" r="6" fill="#050505"/>
+  </g>
+</svg>

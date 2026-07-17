@@ -1,0 +1,194 @@
+[
+  {
+    "id": "wall-1",
+    "image": "/works/wall/wall-01.jpg",
+    "alt": "山水之间",
+    "title": "山水之间",
+    "heightClass": "h-[240px] md:h-[280px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-2",
+    "image": "/works/wall/wall-02.jpg",
+    "alt": "宋式留白",
+    "title": "宋式留白",
+    "heightClass": "h-[180px] md:h-[210px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-3",
+    "image": "/works/wall/wall-03.jpg",
+    "alt": "东方册页",
+    "title": "东方册页",
+    "heightClass": "h-[220px] md:h-[250px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-4",
+    "image": "/works/wall/wall-04.jpg",
+    "alt": "星环交响",
+    "title": "星环交响",
+    "heightClass": "h-[260px] md:h-[300px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-5",
+    "image": "/works/wall/wall-05.jpg",
+    "alt": "声场海报",
+    "title": "声场海报",
+    "heightClass": "h-[200px] md:h-[230px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-6",
+    "image": "/works/wall/wall-06.jpg",
+    "alt": "粒子乐章",
+    "title": "粒子乐章",
+    "heightClass": "h-[170px] md:h-[200px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-7",
+    "image": "/works/wall/wall-07.jpg",
+    "alt": "声音可视化",
+    "title": "声音可视化",
+    "heightClass": "h-[240px] md:h-[270px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-8",
+    "image": "/works/wall/wall-08.jpg",
+    "alt": "时装实验",
+    "title": "时装实验",
+    "heightClass": "h-[250px] md:h-[290px]",
+    "crop": "center top"
+  },
+  {
+    "id": "wall-9",
+    "image": "/works/wall/wall-09.jpg",
+    "alt": "针织剪影",
+    "title": "针织剪影",
+    "heightClass": "h-[190px] md:h-[220px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-10",
+    "image": "/works/wall/wall-10.jpg",
+    "alt": "杂志感成图",
+    "title": "杂志感成图",
+    "heightClass": "h-[210px] md:h-[240px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-11",
+    "image": "/works/wall/wall-11.jpg",
+    "alt": "街头时尚",
+    "title": "街头时尚",
+    "heightClass": "h-[230px] md:h-[270px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-12",
+    "image": "/works/wall/wall-12.jpg",
+    "alt": "平面海报",
+    "title": "平面海报",
+    "heightClass": "h-[180px] md:h-[210px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-13",
+    "image": "/works/wall/wall-13.jpg",
+    "alt": "色块构图",
+    "title": "色块构图",
+    "heightClass": "h-[200px] md:h-[230px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-14",
+    "image": "/works/wall/wall-14.jpg",
+    "alt": "春日疾驰",
+    "title": "春日疾驰",
+    "heightClass": "h-[220px] md:h-[250px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-15",
+    "image": "/works/wall/wall-15.jpg",
+    "alt": "杂志封面",
+    "title": "杂志封面",
+    "heightClass": "h-[190px] md:h-[220px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-16",
+    "image": "/works/wall/wall-16.jpg",
+    "alt": "青春主视觉",
+    "title": "青春主视觉",
+    "heightClass": "h-[170px] md:h-[200px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-17",
+    "image": "/works/wall/wall-17.jpg",
+    "alt": "结构生成",
+    "title": "结构生成",
+    "heightClass": "h-[200px] md:h-[240px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-18",
+    "image": "/works/wall/wall-18.jpg",
+    "alt": "花鸟解构",
+    "title": "花鸟解构",
+    "heightClass": "h-[230px] md:h-[260px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-19",
+    "image": "/works/wall/wall-19.jpg",
+    "alt": "超宽主视觉",
+    "title": "超宽主视觉",
+    "heightClass": "h-[150px] md:h-[170px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-20",
+    "image": "/works/wall/wall-20.jpg",
+    "alt": "商业提案",
+    "title": "商业提案",
+    "heightClass": "h-[160px] md:h-[190px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-21",
+    "image": "/works/wall/wall-21.jpg",
+    "alt": "系统海报",
+    "title": "系统海报",
+    "heightClass": "h-[210px] md:h-[240px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-22",
+    "image": "/works/wall/wall-22.jpg",
+    "alt": "视觉切片",
+    "title": "视觉切片",
+    "heightClass": "h-[180px] md:h-[210px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-23",
+    "image": "/works/wall/wall-23.jpg",
+    "alt": "雾中玻璃城",
+    "title": "雾中玻璃城",
+    "heightClass": "h-[240px] md:h-[280px]",
+    "crop": "center"
+  },
+  {
+    "id": "wall-24",
+    "image": "/works/wall/wall-24.jpg",
+    "alt": "角色成图",
+    "title": "角色成图",
+    "heightClass": "h-[200px] md:h-[230px]",
+    "crop": "center top"
+  }
+]

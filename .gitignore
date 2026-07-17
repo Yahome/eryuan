@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+
+# Local tool state and generated QA/export artifacts
+.agents/
+.claude/
+.playwright-mcp/
+outputs/
+
+# Scratch media kept outside the app asset pipeline
+HMtih5JaEAAuj1c.jpg
